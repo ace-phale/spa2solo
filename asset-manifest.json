@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/spa2solo/static/css/main.a8888520.chunk.css",
-    "main.js": "/spa2solo/static/js/main.1d3a70bf.chunk.js",
-    "main.js.map": "/spa2solo/static/js/main.1d3a70bf.chunk.js.map",
+    "main.css": "/spa2solo/static/css/main.defb630e.chunk.css",
+    "main.js": "/spa2solo/static/js/main.07827fe9.chunk.js",
+    "main.js.map": "/spa2solo/static/js/main.07827fe9.chunk.js.map",
     "runtime-main.js": "/spa2solo/static/js/runtime-main.13d4993b.js",
     "runtime-main.js.map": "/spa2solo/static/js/runtime-main.13d4993b.js.map",
     "static/js/2.bb8f00bb.chunk.js": "/spa2solo/static/js/2.bb8f00bb.chunk.js",
     "static/js/2.bb8f00bb.chunk.js.map": "/spa2solo/static/js/2.bb8f00bb.chunk.js.map",
     "index.html": "/spa2solo/index.html",
-    "static/css/main.a8888520.chunk.css.map": "/spa2solo/static/css/main.a8888520.chunk.css.map",
+    "static/css/main.defb630e.chunk.css.map": "/spa2solo/static/css/main.defb630e.chunk.css.map",
     "static/js/2.bb8f00bb.chunk.js.LICENSE.txt": "/spa2solo/static/js/2.bb8f00bb.chunk.js.LICENSE.txt",
     "static/media/image1.a1b3d0d0.jpg": "/spa2solo/static/media/image1.a1b3d0d0.jpg",
     "static/media/image2.ad993a15.jpg": "/spa2solo/static/media/image2.ad993a15.jpg",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.13d4993b.js",
     "static/js/2.bb8f00bb.chunk.js",
-    "static/css/main.a8888520.chunk.css",
-    "static/js/main.1d3a70bf.chunk.js"
+    "static/css/main.defb630e.chunk.css",
+    "static/js/main.07827fe9.chunk.js"
   ]
 }
