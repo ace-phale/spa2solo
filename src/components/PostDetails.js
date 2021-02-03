@@ -38,7 +38,12 @@ class PostDetails extends Component {
     return (
       <>
         <Post title={post.title} body={post.body} />
-        <section style={{ marginBottom: "0px", paddingBottom: "0px" }}>
+        <section
+          style={{
+            marginBottom: "0px",
+            paddingBottom: "0px",
+            paddingRight: "0px",
+          }}>
           Comments:
         </section>
         <ul>{display}</ul>
