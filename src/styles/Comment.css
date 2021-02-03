@@ -1,0 +1,12 @@
+li.comment {
+  padding: 20px;
+}
+p.comment {
+  font-weight: normal;
+  font-size: smaller;
+}
+.author {
+  font-size: small;
+  text-align: right;
+  padding-right: 60px;
+}
