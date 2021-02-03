@@ -4,9 +4,9 @@ import "../styles/NavBar.css";
 
 const paths = [
   { name: "Start", exact: true, path: "/" },
-  { name: "Posty", path: "/postlist" },
-  { name: "Kontakt", path: "/contact" },
-  { name: "O nas", path: "/aboutus" },
+  { name: "Blog", path: "/postlist" },
+  { name: "Contact", path: "/contact" },
+  { name: "About", path: "/aboutus" },
 ];
 
 const NavBar = () => {
